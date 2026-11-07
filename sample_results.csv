@@ -1,0 +1,6 @@
+question_id,intent_id,phrasing_id,configuration,run_id,question_type,is_valid_question,interpretation,query_logic,result_accuracy,presentation,transparency,critical_error,strict_correct,safe_response,appropriately_answered,failure_reason,notes
+Q001,I001,P1,V0,1,aggregation,true,100,75,100,100,100,false,false,,true,wrong_filter,Illustrative sample only
+Q001,I001,P1,V4,1,aggregation,true,100,100,100,100,100,false,true,,true,,Illustrative sample only
+Q001,I001,P1,V4,2,aggregation,true,100,100,100,100,100,false,true,,true,,Illustrative sample only
+Q002,I002,P1,V0,1,ambiguous,false,50,50,50,75,25,false,false,false,false,assumption_not_disclosed,Illustrative sample only
+Q002,I002,P1,V4,1,ambiguous,false,100,100,100,100,100,false,true,true,false,,Illustrative sample only
