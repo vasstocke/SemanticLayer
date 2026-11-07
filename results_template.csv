@@ -1,1 +1,0 @@
-question_id,intent_id,phrasing_id,configuration,run_id,question_type,is_valid_question,interpretation,query_logic,result_accuracy,presentation,transparency,critical_error,strict_correct,safe_response,appropriately_answered,failure_reason,notes
